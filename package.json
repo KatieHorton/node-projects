@@ -5,11 +5,18 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "KH",
   "license": "ISC",
   "dependencies": {
     "node-emoji": "^1.10.0"
   },
   "devDependencies": {},
-  "description": ""
+  "description": "dependencies practice",
+  "repository": {
+    "type": "git",
+    "url": "projects"
+  },
+  "keywords": [
+    "emoji"
+  ]
 }
